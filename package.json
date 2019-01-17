@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-source-giphy-trending",
+  "version": "1.0.0",
+  "description": "Gatsby source plugin for fetching gif from Giphy as a data source",
+  "main": "gatsby-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby",
+    "source",
+    "plugin",
+    "giphy",
+    "gatsby-source",
+    "gatsby-plugin"
+  ],
+  "author": "Jiyeon Seo<seojeee@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "query-string": "^6.2.0"
+  }
+}
