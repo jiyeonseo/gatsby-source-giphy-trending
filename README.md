@@ -41,19 +41,19 @@ Filters results by rating
 ## How to query
 ```
 {
-    allGiphyGif(limit: 10) {
-      edges {
-        node {
-          id
-          url
-          title
-          images {
-            original {
-              url
-            }
+  allGiphyGif(limit: 10) {
+    edges {
+      node {
+        id
+        url
+        title
+        images {
+          original {
+            url
           }
         }
       }
     }
   }
+}
 ```
