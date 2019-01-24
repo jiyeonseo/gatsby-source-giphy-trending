@@ -1,4 +1,7 @@
 # gatsby-source-giphy-trending
+[![](https://img.shields.io/npm/v/gatsby-source-giphy-trending.svg?style=flat-square)](https://www.npmjs.com/package/gatsby-source-giphy-trending)
+[![](https://img.shields.io/npm/dt/gatsby-source-giphy-trending.svg?style=flat-square)](https://www.npmjs.com/package/gatsby-source-giphy-trending)
+
 Source plugin for pulling data into Gatsby from [Giphy](https://giphy.com/) trending API. 
 
 ## Prerequisites
